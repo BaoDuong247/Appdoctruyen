@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311840976544",
+    "project_id": "appdoctruyen-5b8a7",
+    "storage_bucket": "appdoctruyen-5b8a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311840976544:android:9d96e4f761e97367a923c5",
+        "android_client_info": {
+          "package_name": "com.example.appdoctruyen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZRDrqpQLfv-r4wvYbLEuS9yomFM161c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
